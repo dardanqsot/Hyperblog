@@ -7,3 +7,5 @@ and also I want to know good practices about this topic
 this is a new line
 
 I'm 26 years old,
+
+I studied system engenniering
