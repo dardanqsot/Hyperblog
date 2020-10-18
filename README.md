@@ -1,2 +1,2 @@
 # Hyperblog
- A simple blog page made for the git and github course
+ A simple blog page made for platzi's git and github course
